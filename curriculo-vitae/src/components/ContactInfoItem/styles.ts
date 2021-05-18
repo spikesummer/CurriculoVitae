@@ -15,12 +15,14 @@ export const MenuItem = styled.li`
         width: 30px;
         font-size: 16px;
         color: #03a9f4;
+        line-height: 25px;
     }
 
     span.text{
         color: #fff;
         font-weight: 300;
         font-size: 14px;
+        line-height: 25px;
     }    
 `;
 
