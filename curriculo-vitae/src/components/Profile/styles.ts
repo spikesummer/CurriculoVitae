@@ -10,6 +10,7 @@ export const Container = styled.div`
     p{
         color: #333;
         text-align: justify;
+        line-height: 25px;
     }
 `;
 
