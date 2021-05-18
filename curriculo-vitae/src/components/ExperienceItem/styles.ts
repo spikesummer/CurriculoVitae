@@ -32,4 +32,7 @@ export const Text = styled.div`
         color: #2a7da2;
         font-size: 16px;
     }
+    p{
+        line-height: 25px;
+    }
 `;
